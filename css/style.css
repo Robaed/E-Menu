@@ -433,6 +433,15 @@ a {
     padding-left: 8px;
 }
 
+
+.col-xs-6,
+.col-xs-auto {
+    position: relative;
+    width: 50%;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
 .row {
     margin-right: -8px;
     margin-left: -8px;
@@ -493,7 +502,7 @@ a {
     /* FF3.6-15 */
     background: -webkit-linear-gradient(45deg, #d92662 0%, #e23744 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #d92662 0%, #e23744 100%);
+    background: linear-gradient(45deg, #d94526 0%, #ffbf00 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d92662', endColorstr='#e23744', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
